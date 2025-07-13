@@ -1,6 +1,7 @@
-# 🎵 Spotify Telegram Bot
+# 🎵 Spotify Telegram Downloader Bot
 
 A powerful Telegram bot that downloads songs from Spotify as high-quality MP3 files. The bot uses YouTube as an intermediary to find and download audio, then adds proper metadata and album art.
+💫 This bot is currently running at : @BoroBiaSpoti_Bot 
 
 ## ✨ Features
 
