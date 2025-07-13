@@ -50,8 +50,7 @@ sudo apt install ffmpeg
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
-   cd spotify_telegram_bot
+   git clone https://github.com/Kiasha-pft/SpotifyDownloader
    ```
 
 2. **Install Python dependencies**
@@ -100,7 +99,7 @@ DOWNLOAD_PATH=downloads
 Some YouTube videos require you to be logged in to download them (age-restricted, region-locked, or protected content). You can provide your YouTube cookies to the bot for these cases.
 
 **How to add cookies.txt:**
-1. Install a browser extension like [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/) for Chrome or Firefox.
+1. Install a browser extension like [Get cookies.txt](https://chromewebstore.google.com/detail/cclelndahbckbenkjhflpdbgdldlbecc?utm_source=item-share-cb) for Chrome or Firefox.
 2. Log in to youtube.com with your account (a throwaway account is recommended).
 3. Use the extension to export your cookies as `cookies.txt`.
 4. Place the `cookies.txt` file in the root of your project directory.
